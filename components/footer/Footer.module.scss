@@ -1,0 +1,21 @@
+.footer__main{
+    height: 241px;
+    background: rgba(0,0,0,.75);
+    padding-left: 200px;
+    margin-top: 50px;
+    position: absolute;
+    top: 100%;
+    width: -webkit-fill-available;
+    li,p{
+        color: #757575;
+    }
+    p{
+        padding-top: 30px;
+    }
+    li{
+        display: inline;
+        padding-right: 183px;
+    }
+}
+
+

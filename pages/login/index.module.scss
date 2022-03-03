@@ -1,0 +1,109 @@
+.app__mount__point{
+    .concord__img{
+        position: fixed;
+    top: 0;
+    left: 0;
+    min-height: 100%;
+    }
+    div{
+        display: block;
+    }
+    .nf__header{
+        position: absolute;
+        top: 25px;
+        left: 26px;
+    }
+    .svg__nfLogo{
+        margin-left: 3%;
+        text-decoration: none;
+        vertical-align: middle;
+        fill: #e50914;
+        display: inline-block;
+        line-height: 90px;
+    }   
+    a{
+        background-color: transparent;
+        color: #0080ff;
+    }
+    .svg__icon{
+        height: 45px;
+    width: 167px;
+    vertical-align: middle;
+    }
+    .screen__reader__text{
+        position: absolute;
+        top: -9999px;
+        left: -9999px;
+    }
+    form{
+        background-color: rgba(0,0,0,.75);
+        padding: 60px 68px 40px;
+        width: 450px;
+        height: 678px;
+        position: absolute;
+        top: 10%;
+        left: 33%;
+    }
+    .login__page__title{
+        color: white;
+        font-size: 32px;
+        font-weight: 700;
+    }
+    .login__button{
+        height: 48px;
+        width: 314px;
+        background: #e50914;
+        color: white;
+        border-radius: 6px;
+        margin-top: 24px;
+        font-weight: 700;
+        text-align: center;
+        font-size: 16px;
+        margin-bottom: 12px;
+    }
+    .remember__me{
+        color: #b3b3b3;
+    font-size: 13px;
+    font-weight: 500;
+    position: relative;
+    top: -2px;
+    }
+    .remember__me__check{
+      width: 16px;
+        height: 16px;
+
+    background: #534a4a;
+    margin-right: 10px;
+
+    }
+    .with__facebook{
+        color: #737373;
+    font-size: 13px;
+    font-weight: 500;
+    position: relative;
+    left: 31px;
+    top: -20px;
+    }
+    .need__help{
+        color: #b3b3b3;
+    position: relative;
+    left: 225px;
+    top: -24px;
+    }
+    .first__visit{
+    color: #737373;
+    font-size: 16px;
+    font-weight: 500;
+    position: relative;
+    }
+    .register__link{
+        color:white;
+        font-size: 16px;
+    font-weight: 500;
+    }
+    .captcha{
+        font-size: 13px;
+    color: #8c8c8c;
+    }
+    
+}
